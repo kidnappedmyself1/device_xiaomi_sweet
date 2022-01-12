@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/corvus_sweet.mk
+    $(LOCAL_DIR)/fuse_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    corvus_sweet-eng \
-    corvus_sweet-userdebug \
-    corvus_sweet-user
+    fuse_sweet-eng \
+    fuse_sweet-userdebug \
+    fuse_sweet-user
